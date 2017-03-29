@@ -1,0 +1,26 @@
+{
+	"centurion_color_blue": true,
+	"centurion_color_grey": false,
+	"centurion_color_orange": false,
+	"centurion_color_red": false,
+	"centurion_color_yellow": false,
+	"color_scheme": "Packages/User/SublimeLinter/Galea (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Centurion.sublime-theme"
+}

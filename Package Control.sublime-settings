@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"FileDiffs",
+		"More Python Completions",
+		"Package Control",
+		"Pretty JSON",
+		"Python Completions",
+		"Python Fix Imports",
+		"Python Improved",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Trimmer"
+	]
+}
