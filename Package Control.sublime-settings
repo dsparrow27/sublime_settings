@@ -5,11 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Anaconda",
+		"DataConverter",
 		"FileDiffs",
+		"FileSystem Autocompletion",
 		"More Python Completions",
 		"Package Control",
 		"Pretty JSON",
+		"Pretty YAML",
 		"Python Completions",
 		"Python Fix Imports",
 		"Python Improved",
